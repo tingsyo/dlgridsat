@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
-This script .
+This script parses a configuration file and performs evaluation on GLM 
+with specified feature-vector/weather-event pair.
 
 The code is developed and teset with Python 3.7, scikit-learn 0.24.2
 '''
